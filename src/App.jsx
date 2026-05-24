@@ -5,6 +5,7 @@ import Higlights from './components/Higlights'
 import Model from './components/Model'
 import Features from './components/Features'
 import HowItWorks from './components/HowItWorks'
+import Footer from './components/Footer'
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <Model />
       <Features />
       <HowItWorks />
+      <Footer />
     </main>
   )
 }
